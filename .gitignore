@@ -1,0 +1,29 @@
+# Arquivos compilados Java
+*.class
+
+# Arquivos de serialização
+*.ser
+
+# Relatórios exportados
+*.txt
+
+# Pastas de build
+bin/
+build/
+out/
+
+# Configurações do Eclipse
+.classpath
+.project
+.settings/
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+
+# Configurações do VS Code
+.vscode/
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
